@@ -76,3 +76,7 @@ Now we use mksquashfs to compress all our files:
 `mksquashfs /tmp/ubuntu /tmp/ubuntu.squashfs`
 
 You have now your custom root filesystem inside `ubuntu.squashfs`
+
+## links
+
+* [Creating and using squashed filesystem](https://tldp.org/HOWTO/SquashFS-HOWTO/creatingandusing.html)
