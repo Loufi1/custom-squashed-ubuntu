@@ -1,4 +1,4 @@
-# Create a custom ubuntu image
+# Create a custom squashed ubuntu filesystem
 
 ## Requirements
 
