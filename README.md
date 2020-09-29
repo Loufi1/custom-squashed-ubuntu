@@ -1,4 +1,4 @@
-# Create a custom root filesystem
+# Create a custom ubuntu image
 
 ## Requirements
 
